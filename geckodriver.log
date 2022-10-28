@@ -1,0 +1,340 @@
+1666987966966	geckodriver	INFO	Listening on 127.0.0.1:57005
+1666987967056	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57006" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileJbbITk"
+1666987968727	Marionette	INFO	Marionette enabled
+1666987968796	Marionette	INFO	Listening on port 57025
+Read port: 57025
+2022-10-28 21:12:48.877 plugin-container[22088:7468150] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:12:48.878 plugin-container[22088:7468150] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:12:48.892 plugin-container[22088:7468150] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:12:48.892 plugin-container[22088:7468150] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:12:48.893 plugin-container[22088:7468154] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:12:48.893 plugin-container[22088:7468154] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:57006
+1666987969179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileJbbITk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57006/devtools/browser/23ee9841-7e23-4b7e-8f6b-6ae699faf1c6
+2022-10-28 20:12:54.652 plugin-container[22096:7468468] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:12:54.652 plugin-container[22096:7468468] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:12:54.659 plugin-container[22096:7468468] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:12:54.659 plugin-container[22096:7468468] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:12:54.660 plugin-container[22096:7468469] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:12:54.660 plugin-container[22096:7468469] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1666988136896	geckodriver	INFO	Listening on 127.0.0.1:58818
+1666988137420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58819" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileob5YXZ"
+1666988138508	Marionette	INFO	Marionette enabled
+2022-10-28 21:15:38.624 plugin-container[22246:7470355] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:15:38.624 plugin-container[22246:7470355] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:15:38.630 plugin-container[22246:7470355] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:15:38.630 plugin-container[22246:7470355] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:15:38.630 plugin-container[22246:7470374] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:15:38.630 plugin-container[22246:7470374] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666988138732	Marionette	INFO	Listening on port 58830
+Read port: 58830
+WebDriver BiDi listening on ws://127.0.0.1:58819
+1666988138929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileob5YXZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58819/devtools/browser/7547b034-11d7-4e69-ae51-afa93dbbe019
+2022-10-28 20:15:44.404 plugin-container[22255:7470737] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:15:44.404 plugin-container[22255:7470737] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:15:44.409 plugin-container[22255:7470737] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:15:44.409 plugin-container[22255:7470737] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:15:44.410 plugin-container[22255:7470741] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:15:44.410 plugin-container[22255:7470741] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1666988266447	Marionette	INFO	Stopped listening on port 58830
+!!! error running onStopped callback: TypeError: callback is not a function
+1666988270218	geckodriver	INFO	Listening on 127.0.0.1:60478
+1666988270733	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60479" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilejoQ3lV"
+2022-10-28 21:17:51.922 plugin-container[22377:7472154] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:17:51.922 plugin-container[22377:7472154] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:17:51.926 plugin-container[22377:7472154] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:17:51.926 plugin-container[22377:7472154] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:17:51.927 plugin-container[22377:7472159] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:17:51.927 plugin-container[22377:7472159] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666988272015	Marionette	INFO	Marionette enabled
+1666988272079	Marionette	INFO	Listening on port 60494
+Read port: 60494
+WebDriver BiDi listening on ws://127.0.0.1:60479
+1666988272490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilejoQ3lV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60479/devtools/browser/2b5de298-8c45-4bee-bccb-90f39cc4dcc2
+2022-10-28 20:17:57.210 plugin-container[22386:7472523] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:17:57.211 plugin-container[22386:7472523] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:17:57.215 plugin-container[22386:7472523] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:17:57.215 plugin-container[22386:7472523] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:17:57.216 plugin-container[22386:7472544] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:17:57.216 plugin-container[22386:7472544] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1666988380895	geckodriver	INFO	Listening on 127.0.0.1:62019
+1666988381404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62020" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileKwfChM"
+2022-10-28 21:19:42.732 plugin-container[22446:7473566] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:19:42.733 plugin-container[22446:7473566] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:19:42.738 plugin-container[22446:7473566] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:19:42.738 plugin-container[22446:7473566] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:19:42.738 plugin-container[22446:7473567] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:19:42.738 plugin-container[22446:7473567] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666988382912	Marionette	INFO	Marionette enabled
+1666988382968	Marionette	INFO	Listening on port 62035
+Read port: 62035
+WebDriver BiDi listening on ws://127.0.0.1:62020
+1666988384069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileKwfChM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62020/devtools/browser/f584dfe5-5529-449f-ac7e-f89723eabb69
+2022-10-28 20:19:51.482 plugin-container[22455:7473892] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:19:51.483 plugin-container[22455:7473892] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:19:51.487 plugin-container[22455:7473892] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:19:51.487 plugin-container[22455:7473892] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:19:51.488 plugin-container[22455:7473901] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:19:51.488 plugin-container[22455:7473901] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1666988600936	Marionette	INFO	Stopped listening on port 62035
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666988606969	Marionette	INFO	Stopped listening on port 60494
+1666988619131	geckodriver	INFO	Listening on 127.0.0.1:64161
+1666988619643	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64162" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilei9NJBJ"
+1666988620766	Marionette	INFO	Marionette enabled
+1666988620907	Marionette	INFO	Listening on port 64177
+Read port: 64177
+2022-10-28 21:23:41.001 plugin-container[22583:7476128] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:23:41.011 plugin-container[22583:7476128] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:23:41.043 plugin-container[22583:7476128] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:23:41.044 plugin-container[22583:7476128] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:23:41.045 plugin-container[22583:7476158] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:23:41.045 plugin-container[22583:7476158] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:64162
+1666988621196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilei9NJBJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64162/devtools/browser/c32a6f6e-4a5e-46ec-a87c-2690c5e07250
+2022-10-28 20:23:48.675 plugin-container[22592:7476559] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:23:48.675 plugin-container[22592:7476559] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:23:48.679 plugin-container[22592:7476559] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:23:48.679 plugin-container[22592:7476559] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:23:48.679 plugin-container[22592:7476580] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:23:48.679 plugin-container[22592:7476580] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.6038e9d7dc2087bf381c.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.6038e9d7dc2087bf381c.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.6038e9d7dc2087bf381c.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.6038e9d7dc2087bf381c.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.6038e9d7dc2087bf381c.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.6038e9d7dc2087bf381c.js)
+1666988707256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.6038e9d7dc2087bf381c.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk PushNotifications failed.
+(error: https://www.redditstatic.com/desktop2x/PushNotifications.6038e9d7dc2087bf381c.js)
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1666988932266	geckodriver	INFO	Listening on 127.0.0.1:51342
+1666988932775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51343" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileN5E79Y"
+2022-10-28 21:28:53.807 plugin-container[22777:7480225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:28:53.810 plugin-container[22777:7480225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:28:53.817 plugin-container[22777:7480225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:28:53.817 plugin-container[22777:7480225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:28:53.818 plugin-container[22777:7480232] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:28:53.818 plugin-container[22777:7480232] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666988933831	Marionette	INFO	Marionette enabled
+1666988933935	Marionette	INFO	Listening on port 51358
+Read port: 51358
+WebDriver BiDi listening on ws://127.0.0.1:51343
+1666988934561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileN5E79Y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51343/devtools/browser/bf6fece6-dc2c-41ee-9248-65e32cc7e4a0
+2022-10-28 20:29:00.613 plugin-container[22786:7480588] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:29:00.614 plugin-container[22786:7480588] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:29:00.621 plugin-container[22786:7480588] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:29:00.621 plugin-container[22786:7480588] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:29:00.622 plugin-container[22786:7480610] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:29:00.622 plugin-container[22786:7480610] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1666989068251	geckodriver	INFO	Listening on 127.0.0.1:52829
+1666989068763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52830" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileesRR8u"
+1666989070612	Marionette	INFO	Marionette enabled
+1666989070698	Marionette	INFO	Listening on port 52849
+Read port: 52849
+2022-10-28 21:31:10.811 plugin-container[22870:7482082] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:31:10.811 plugin-container[22870:7482082] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:31:10.819 plugin-container[22870:7482082] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:31:10.819 plugin-container[22870:7482082] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:31:10.819 plugin-container[22870:7482097] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:31:10.820 plugin-container[22870:7482097] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:52830
+1666989071727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileesRR8u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52830/devtools/browser/342639eb-c6cf-4f63-854a-bc07dd808600
+2022-10-28 20:31:19.300 plugin-container[22880:7482407] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:31:19.302 plugin-container[22880:7482407] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:31:19.315 plugin-container[22880:7482407] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:31:19.315 plugin-container[22880:7482407] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:31:19.316 plugin-container[22880:7482426] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:31:19.316 plugin-container[22880:7482426] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk AwardTooltip failed.
+(error: https://www.redditstatic.com/desktop2x/AwardTooltip.19767159d7d505ee345a.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk vendors~dashjs failed.
+(error: https://www.redditstatic.com/desktop2x/vendors~dashjs.518ef1c4a3ea00bc51bc.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1666989221095	geckodriver	INFO	Listening on 127.0.0.1:54620
+1666989221616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54621" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileFelHe4"
+1666989223102	Marionette	INFO	Marionette enabled
+2022-10-28 21:33:43.116 plugin-container[23112:7484118] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:33:43.116 plugin-container[23112:7484118] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:33:43.124 plugin-container[23112:7484118] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:33:43.124 plugin-container[23112:7484118] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 21:33:43.125 plugin-container[23112:7484136] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 21:33:43.125 plugin-container[23112:7484136] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666989223229	Marionette	INFO	Listening on port 54636
+Read port: 54636
+WebDriver BiDi listening on ws://127.0.0.1:54621
+1666989223545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileFelHe4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54621/devtools/browser/13012176-35fa-4a35-90a7-f8313ae0cd9b
+2022-10-28 20:33:49.743 plugin-container[23121:7484409] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:33:49.743 plugin-container[23121:7484409] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:33:49.749 plugin-container[23121:7484409] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:33:49.749 plugin-container[23121:7484409] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-28 20:33:49.749 plugin-container[23121:7484433] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-28 20:33:49.749 plugin-container[23121:7484433] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1666989304889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js, line 1: Script terminated by timeout at:
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746876
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+./node_modules/react-redux/es/index.js/T/</h/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746672
+Ls@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:692835
+Wa@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:715485
+./node_modules/react-dom/node_modules/scheduler/cjs/scheduler.production.min.js/t.unstable_runWithPriority@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:737018
+ho@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:662208
+$a@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:711560
+Na@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700226
+./node_modules/react-dom/cjs/react-dom.production.min.js/yo/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:662480
+./node_modules/react-dom/node_modules/scheduler/cjs/scheduler.production.min.js/t.unstable_runWithPriority@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:737018
+ho@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:662208
+yo@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:662427
+bo@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:662360
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700555
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+b@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:826795
+./src/reddit/index.tsx/<.customMiddleware</</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:524098
+./src/reddit/index.tsx/<.customMiddleware</</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:523529
+./src/reddit/index.tsx/_f</</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:509135
+./src/reddit/customMiddleware/recentSubreddits.ts/t.a/</<@https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.e20b3ad10aacc70923ef.js:1:136783
+./src/reddit/index.tsx/tv</</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:513836
+./src/reddit/index.tsx/Xf</</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:512627
+./src/reddit/index.tsx/vv/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:516191
+./src/reddit/index.tsx/rv/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:514778
+./src/reddit/index.tsx/$f/$f/$f@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:513442
+./src/reddit/index.tsx/Ff/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:510532
+./src/reddit/index.tsx/sv/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:514636
+./src/reduxMiddleware/gqlContext.ts/t.a/a/</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:1033997
+./src/reduxMiddleware/gqlContext.ts/t.a/a/</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:1033997
+./src/reduxMiddleware/apiContext.ts/t.a/middleware/</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:1033325
+./src/reddit/index.tsx/Tf/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:510349
+./src/reddit/index.tsx/Pf</middleware/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:509523
+./node_modules/redux-thunk/es/index.js/r/</</<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:824158
+./node_modules/react-router-redux/es/index.js/Z/</</<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:774328
+./src/lib/initializeClient/index.tsx/V/</</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:146978
+dispatch@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:830527
+./src/reduxMiddleware/apiContext.ts/g/<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:1031437
+./src/lib/makeApiRequest/index.ts/v/</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:165498
+
