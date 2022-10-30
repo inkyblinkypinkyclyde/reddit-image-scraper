@@ -338,3 +338,735 @@ dispatch@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8
 ./src/reduxMiddleware/apiContext.ts/g/<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:1031437
 ./src/lib/makeApiRequest/index.ts/v/</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:165498
 
+1666989475001	Marionette	INFO	Stopped listening on port 54636
+!!! error running onStopped callback: TypeError: callback is not a function
+1667030118273	geckodriver	INFO	Listening on 127.0.0.1:60815
+1667030118769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "60816" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofile4m8EqC"
+*** You are running in headless mode.
+2022-10-29 08:55:20.369 plugin-container[30123:7742153] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:55:20.369 plugin-container[30123:7742153] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667030120394	Marionette	INFO	Marionette enabled
+1667030120438	Marionette	INFO	Listening on port 60831
+2022-10-29 08:55:20.462 plugin-container[30123:7742153] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:55:20.463 plugin-container[30123:7742153] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 08:55:20.463 plugin-container[30123:7742151] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:55:20.463 plugin-container[30123:7742151] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 60831
+WebDriver BiDi listening on ws://127.0.0.1:60816
+1667030121226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofile4m8EqC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60816/devtools/browser/4c56166e-2e92-4a0a-9d12-481b42259ee0
+2022-10-29 07:55:28.333 plugin-container[30136:7742693] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 07:55:28.333 plugin-container[30136:7742693] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 07:55:28.339 plugin-container[30136:7742693] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 07:55:28.339 plugin-container[30136:7742693] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 07:55:28.339 plugin-container[30136:7742697] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 07:55:28.339 plugin-container[30136:7742697] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667030705093	Marionette	INFO	Stopped listening on port 51358
+1667030716868	geckodriver	INFO	Listening on 127.0.0.1:64631
+1667030717376	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64632" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileYHvfrZ"
+2022-10-29 09:05:18.458 plugin-container[30598:7749357] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:05:18.459 plugin-container[30598:7749357] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 09:05:18.463 plugin-container[30598:7749357] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:05:18.463 plugin-container[30598:7749357] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 09:05:18.464 plugin-container[30598:7749360] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:05:18.464 plugin-container[30598:7749360] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667030718502	Marionette	INFO	Marionette enabled
+1667030718653	Marionette	INFO	Listening on port 64653
+Read port: 64653
+WebDriver BiDi listening on ws://127.0.0.1:64632
+1667030719089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileYHvfrZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64632/devtools/browser/73399115-d494-4de3-9eb5-a1857ea346e6
+2022-10-29 08:05:26.596 plugin-container[30607:7749723] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:05:26.597 plugin-container[30607:7749723] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 08:05:26.601 plugin-container[30607:7749723] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:05:26.601 plugin-container[30607:7749723] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 08:05:26.601 plugin-container[30607:7749728] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:05:26.601 plugin-container[30607:7749728] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js, line 1: Script terminated by timeout at:
+./src/reddit/selectors/posts.ts/<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:883700
+imageGalleryCurrentItem@https://www.redditstatic.com/desktop2x/reddit-components-LargePost.1eff6841dc8ab00a73c0.js:1:148462
+./node_modules/reselect/es/index.js/a/</l<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:832163
+./node_modules/reselect/es/index.js/i/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:831487
+r@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:748199
+p@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:749455
+./node_modules/react-redux/es/index.js/F/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:749527
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746765
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+n@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:746834
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+./node_modules/react-redux/es/index.js/t.trySubscribe/notify/<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742233
+La@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:700529
+notify@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:742189
+./node_modules/react-redux/es/index.js/t.notifyNestedSubs@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741768
+./node_modules/react-redux/es/index.js/t.handleChangeWrapper@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:741836
+b@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:826795
+./src/reddit/index.tsx/<.customMiddleware</</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:524098
+./src/reddit/index.tsx/<.customMiddleware</</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:523529
+./src/reddit/index.tsx/_f</</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:509135
+./src/reddit/customMiddleware/recentSubreddits.ts/t.a/</<@https://www.redditstatic.com/desktop2x/CommentsPage~Governance~Reddit~ReportFlow~Subreddit~reddit-components-BlankPost~reddit-components-Cl~5351df81.e20b3ad10aacc70923ef.js:1:136783
+./src/reddit/index.tsx/tv</</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:513836
+./src/reddit/index.tsx/Xf</</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:512627
+./src/reddit/index.tsx/vv/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:516191
+./src/reddit/index.tsx/rv/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:514778
+./src/reddit/index.tsx/$f/$f/$f@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:513442
+./src/reddit/index.tsx/Ff/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:510532
+./src/reddit/index.tsx/sv/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:514636
+./src/reduxMiddleware/gqlContext.ts/t.a/a/</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:1033997
+./src/reduxMiddleware/gqlContext.ts/t.a/a/</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:1033997
+./src/reduxMiddleware/apiContext.ts/t.a/middleware/</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:1033325
+./src/reddit/index.tsx/Tf/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:510349
+./src/reddit/index.tsx/Pf</middleware/</<@https://www.redditstatic.com/desktop2x/Reddit.4a3289d1c593bfb10398.js:1:509523
+./node_modules/redux-thunk/es/index.js/r/</</<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:824158
+./node_modules/react-router-redux/es/index.js/Z/</</<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:774328
+./src/lib/initializeClient/index.tsx/V/</</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:146978
+dispatch@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:830527
+./src/reddit/actions/post.ts/Xe/<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:278609
+./node_modules/redux-thunk/es/index.js/r/</</<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:824149
+./node_modules/react-router-redux/es/index.js/Z/</</<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:774328
+./src/lib/initializeClient/index.tsx/V/</</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:146978
+dispatch@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:830527
+./src/reddit/actions/post.ts/Je/<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:278472
+./node_modules/redux-thunk/es/index.js/r/</</<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:824149
+./node_modules/react-router-redux/es/index.js/Z/</</<@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:774328
+./src/lib/initializeClient/index.tsx/V/</</<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:146978
+dispatch@https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.8ff0361ba40cb920bc06.js:1:830527
+./src/reddit/actions/post.ts/Ze/<@https://www.redditstatic.com/desktop2x/Chat~Governance~Reddit.49626d466ff1e59beffb.js:1:279171
+
+1667031596001	geckodriver	INFO	Listening on 127.0.0.1:52702
+1667031596516	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52703" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilegeWw0p"
+2022-10-29 09:19:57.729 plugin-container[30844:7756997] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:19:57.730 plugin-container[30844:7756997] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 09:19:57.742 plugin-container[30844:7756997] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:19:57.742 plugin-container[30844:7756997] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 09:19:57.743 plugin-container[30844:7757001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:19:57.743 plugin-container[30844:7757001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667031597851	Marionette	INFO	Marionette enabled
+1667031597926	Marionette	INFO	Listening on port 52718
+Read port: 52718
+WebDriver BiDi listening on ws://127.0.0.1:52703
+1667031598589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilegeWw0p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52703/devtools/browser/8a0f3421-07be-4b26-ad80-eeecf4d4b4de
+2022-10-29 08:20:07.219 plugin-container[30852:7757347] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:20:07.219 plugin-container[30852:7757347] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 08:20:07.223 plugin-container[30852:7757347] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:20:07.224 plugin-container[30852:7757347] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 08:20:07.224 plugin-container[30852:7757395] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:20:07.224 plugin-container[30852:7757395] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+1667031769194	geckodriver	INFO	Listening on 127.0.0.1:54520
+1667031769233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54521" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilelxBZWa"
+2022-10-29 09:22:50.683 plugin-container[30941:7758965] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:22:50.685 plugin-container[30941:7758965] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 09:22:50.691 plugin-container[30941:7758965] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:22:50.691 plugin-container[30941:7758965] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 09:22:50.692 plugin-container[30941:7758962] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:22:50.692 plugin-container[30941:7758962] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667031770975	Marionette	INFO	Marionette enabled
+1667031771063	Marionette	INFO	Listening on port 54534
+Read port: 54534
+WebDriver BiDi listening on ws://127.0.0.1:54521
+1667031772061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilelxBZWa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54521/devtools/browser/c11fcc0b-2a0f-4500-9c55-a8591310e622
+2022-10-29 08:23:01.454 plugin-container[30951:7759295] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:23:01.454 plugin-container[30951:7759295] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 08:23:01.460 plugin-container[30951:7759295] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:23:01.460 plugin-container[30951:7759295] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 08:23:01.461 plugin-container[30951:7759321] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:23:01.461 plugin-container[30951:7759321] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1667031822668	Marionette	INFO	Stopped listening on port 54534
+1667031827480	Marionette	INFO	Stopped listening on port 52718
+1667031831942	geckodriver	INFO	Listening on 127.0.0.1:55635
+1667031832461	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55636" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileWqdTZ3"
+1667031834164	Marionette	INFO	Marionette enabled
+2022-10-29 09:23:54.181 plugin-container[31011:7760149] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:23:54.181 plugin-container[31011:7760149] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 09:23:54.213 plugin-container[31011:7760149] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:23:54.213 plugin-container[31011:7760149] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 09:23:54.214 plugin-container[31011:7760146] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 09:23:54.214 plugin-container[31011:7760146] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667031834230	Marionette	INFO	Listening on port 55655
+Read port: 55655
+WebDriver BiDi listening on ws://127.0.0.1:55636
+1667031835053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileWqdTZ3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55636/devtools/browser/7c788188-73b2-44f3-af77-247152c70669
+2022-10-29 08:24:04.473 plugin-container[31037:7760574] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:24:04.474 plugin-container[31037:7760574] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 08:24:04.479 plugin-container[31037:7760574] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:24:04.479 plugin-container[31037:7760574] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-29 08:24:04.479 plugin-container[31037:7760585] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-29 08:24:04.479 plugin-container[31037:7760585] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 383: Error: Invalid site key or not loaded in api.js: 6LdGQiETAAAAAKmMS_z4P9oM4bTBjhagD75S2nP6
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 383: Error: Invalid site key or not loaded in api.js: 6LdGQiETAAAAAKmMS_z4P9oM4bTBjhagD75S2nP6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 383: Error: Invalid site key or not loaded in api.js: 6LdGQiETAAAAAKmMS_z4P9oM4bTBjhagD75S2nP6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bigrockclimbing.com."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 383: Error: Invalid site key or not loaded in api.js: 6LdGQiETAAAAAKmMS_z4P9oM4bTBjhagD75S2nP6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bigrockclimbing.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bigrockclimbing.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bigrockclimbing.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 383: Error: Invalid site key or not loaded in api.js: 6LdGQiETAAAAAKmMS_z4P9oM4bTBjhagD75S2nP6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www-22e.bookeo.com."
+1667147712270	Marionette	INFO	Stopped listening on port 55655
+1667147719810	Marionette	INFO	Stopped listening on port 64653
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667148113691	geckodriver	INFO	Listening on 127.0.0.1:59805
+1667148114210	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59806" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofile3OXmrj"
+1667148116810	Marionette	INFO	Marionette enabled
+2022-10-30 16:41:56.940 plugin-container[50328:8518645] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:41:56.945 plugin-container[50328:8518645] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667148117016	Marionette	INFO	Listening on port 59825
+Read port: 59825
+2022-10-30 16:41:57.132 plugin-container[50328:8518645] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:41:57.132 plugin-container[50328:8518645] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:41:57.133 plugin-container[50328:8518653] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:41:57.133 plugin-container[50328:8518653] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:59806
+1667148117425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofile3OXmrj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59806/devtools/browser/1c538c2f-8b07-4325-bb05-a68e96fb3cf3
+2022-10-30 16:42:14.253 plugin-container[50347:8519240] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:42:14.255 plugin-container[50347:8519240] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:42:14.262 plugin-container[50347:8519240] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:42:14.263 plugin-container[50347:8519240] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:42:14.264 plugin-container[50347:8519256] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:42:14.264 plugin-container[50347:8519256] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1667148214107	Marionette	INFO	Stopped listening on port 59825
+1667148217053	geckodriver	INFO	Listening on 127.0.0.1:61152
+1667148217557	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61153" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilei9LdeR"
+2022-10-30 16:43:38.535 plugin-container[50407:8520105] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:43:38.536 plugin-container[50407:8520105] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:43:38.544 plugin-container[50407:8520105] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:43:38.544 plugin-container[50407:8520105] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:43:38.545 plugin-container[50407:8520107] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:43:38.545 plugin-container[50407:8520107] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667148218719	Marionette	INFO	Marionette enabled
+1667148218850	Marionette	INFO	Listening on port 61168
+Read port: 61168
+WebDriver BiDi listening on ws://127.0.0.1:61153
+1667148219586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilei9LdeR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61153/devtools/browser/8a61b7b4-7824-4b6e-95c8-a8821b70a833
+2022-10-30 16:44:07.122 plugin-container[50425:8520772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:44:07.122 plugin-container[50425:8520772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:44:07.127 plugin-container[50425:8520772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:44:07.127 plugin-container[50425:8520772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:44:07.128 plugin-container[50425:8520802] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:44:07.128 plugin-container[50425:8520802] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1667148459724	Marionette	INFO	Stopped listening on port 61168
+!!! error running onStopped callback: TypeError: callback is not a function
+1667148463934	geckodriver	INFO	Listening on 127.0.0.1:63220
+1667148463952	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63221" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofile0mpLbk"
+2022-10-30 16:47:44.924 plugin-container[50667:8523290] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:47:44.925 plugin-container[50667:8523290] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:47:44.931 plugin-container[50667:8523290] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:47:44.931 plugin-container[50667:8523290] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:47:44.931 plugin-container[50667:8523300] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:47:44.931 plugin-container[50667:8523300] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667148465249	Marionette	INFO	Marionette enabled
+1667148465297	Marionette	INFO	Listening on port 63234
+Read port: 63234
+WebDriver BiDi listening on ws://127.0.0.1:63221
+1667148465544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofile0mpLbk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63221/devtools/browser/1199c777-8f9a-40fd-88d8-419735aec72a
+2022-10-30 16:48:38.327 plugin-container[50696:8524319] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:48:38.329 plugin-container[50696:8524319] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:48:38.335 plugin-container[50696:8524319] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:48:38.335 plugin-container[50696:8524319] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:48:38.335 plugin-container[50696:8524352] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:48:38.335 plugin-container[50696:8524352] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1667148773576	Marionette	INFO	Stopped listening on port 63234
+1667148778257	geckodriver	INFO	Listening on 127.0.0.1:49310
+1667148778777	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49311" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofiled0mx2b"
+1667148779948	Marionette	INFO	Marionette enabled
+2022-10-30 16:52:59.933 plugin-container[50844:8526865] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:52:59.991 plugin-container[50844:8526865] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:53:00.011 plugin-container[50844:8526865] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:53:00.011 plugin-container[50844:8526865] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:53:00.012 plugin-container[50844:8526876] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:53:00.012 plugin-container[50844:8526876] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667148780035	Marionette	INFO	Listening on port 49333
+Read port: 49333
+WebDriver BiDi listening on ws://127.0.0.1:49311
+1667148780496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofiled0mx2b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49311/devtools/browser/2e75cee9-51e6-4c89-a81e-ca7deb6fe58c
+1667148803284	Marionette	INFO	Stopped listening on port 49333
+1667148806132	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1667149018737	geckodriver	INFO	Listening on 127.0.0.1:51041
+1667149019253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-notifications" "--remote-debugging-port" "51042" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilevYNLQV"
+1667149020534	Marionette	INFO	Marionette enabled
+2022-10-30 16:57:00.536 plugin-container[50944:8529370] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:57:00.537 plugin-container[50944:8529370] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:57:00.551 plugin-container[50944:8529370] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:57:00.551 plugin-container[50944:8529370] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:57:00.552 plugin-container[50944:8529382] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:57:00.552 plugin-container[50944:8529382] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667149020616	Marionette	INFO	Listening on port 51063
+Read port: 51063
+WebDriver BiDi listening on ws://127.0.0.1:51042
+1667149021191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilevYNLQV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51042/devtools/browser/77e882b5-ace9-4cb1-943d-0434be114af9
+2022-10-30 16:57:10.054 plugin-container[50954:8529792] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:57:10.054 plugin-container[50954:8529792] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:57:10.060 plugin-container[50954:8529792] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:57:10.060 plugin-container[50954:8529792] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:57:10.061 plugin-container[50954:8529810] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:57:10.061 plugin-container[50954:8529810] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1667149187079	Marionette	INFO	Stopped listening on port 51063
+1667149190918	geckodriver	INFO	Listening on 127.0.0.1:52849
+1667149190970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--disable-notifications" "--remote-debugging-port" "52850" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileJ1AHm7"
+1667149192358	Marionette	INFO	Marionette enabled
+1667149192433	Marionette	INFO	Listening on port 52863
+2022-10-30 16:59:52.441 plugin-container[51074:8531587] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:59:52.441 plugin-container[51074:8531587] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:59:52.446 plugin-container[51074:8531587] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:59:52.446 plugin-container[51074:8531587] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 16:59:52.447 plugin-container[51074:8531617] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 16:59:52.447 plugin-container[51074:8531617] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 52863
+WebDriver BiDi listening on ws://127.0.0.1:52850
+1667149192847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileJ1AHm7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52850/devtools/browser/633448f2-4e02-4dd0-a4f5-39cd987e622d
+2022-10-30 17:00:00.615 plugin-container[51084:8532001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:00:00.617 plugin-container[51084:8532001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:00:00.622 plugin-container[51084:8532001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:00:00.622 plugin-container[51084:8532001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:00:00.623 plugin-container[51084:8532012] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:00:00.623 plugin-container[51084:8532012] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1667149579314	geckodriver	INFO	Listening on 127.0.0.1:55626
+1667149579825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "55627" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileJLfRW7"
+*** You are running in headless mode.
+2022-10-30 17:06:20.580 plugin-container[51254:8535724] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:06:20.580 plugin-container[51254:8535724] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:06:20.610 plugin-container[51254:8535724] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:06:20.610 plugin-container[51254:8535724] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:06:20.611 plugin-container[51254:8535725] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:06:20.611 plugin-container[51254:8535725] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667149580653	Marionette	INFO	Marionette enabled
+1667149580742	Marionette	INFO	Listening on port 55642
+Read port: 55642
+WebDriver BiDi listening on ws://127.0.0.1:55627
+1667149581308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileJLfRW7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55627/devtools/browser/f1505e9a-6f68-429e-a2ca-65adf91bd2ff
+2022-10-30 17:06:29.053 plugin-container[51263:8536102] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:06:29.055 plugin-container[51263:8536102] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:06:29.075 plugin-container[51263:8536102] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:06:29.075 plugin-container[51263:8536102] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:06:29.076 plugin-container[51263:8536110] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:06:29.076 plugin-container[51263:8536110] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1667149644882	Marionette	INFO	Stopped listening on port 52863
+1667149650561	geckodriver	INFO	Listening on 127.0.0.1:56421
+1667149651077	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "56422" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileBeSIsN"
+*** You are running in headless mode.
+2022-10-30 17:07:31.822 plugin-container[51322:8536915] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:07:31.823 plugin-container[51322:8536915] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:07:31.829 plugin-container[51322:8536915] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:07:31.829 plugin-container[51322:8536915] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:07:31.829 plugin-container[51322:8536919] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:07:31.829 plugin-container[51322:8536919] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667149651902	Marionette	INFO	Marionette enabled
+1667149652010	Marionette	INFO	Listening on port 56435
+Read port: 56435
+WebDriver BiDi listening on ws://127.0.0.1:56422
+1667149652479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileBeSIsN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56422/devtools/browser/410b2abb-62fe-47af-b6e7-03a78813b6af
+2022-10-30 17:07:39.936 plugin-container[51332:8537256] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:07:39.936 plugin-container[51332:8537256] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:07:39.943 plugin-container[51332:8537256] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:07:39.943 plugin-container[51332:8537256] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:07:39.944 plugin-container[51332:8537268] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:07:39.944 plugin-container[51332:8537268] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1667149695166	geckodriver	INFO	Listening on 127.0.0.1:57084
+1667149695198	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "57085" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileuC9GC8"
+*** You are running in headless mode.
+2022-10-30 17:08:16.175 plugin-container[51383:8537793] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:08:16.176 plugin-container[51383:8537793] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:08:16.206 plugin-container[51383:8537793] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:08:16.206 plugin-container[51383:8537793] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:08:16.207 plugin-container[51383:8537790] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:08:16.207 plugin-container[51383:8537790] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667149696289	Marionette	INFO	Marionette enabled
+1667149696369	Marionette	INFO	Listening on port 57094
+Read port: 57094
+WebDriver BiDi listening on ws://127.0.0.1:57085
+1667149696967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileuC9GC8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57085/devtools/browser/92737af6-b8f3-4b74-8be4-a97537574b54
+2022-10-30 17:08:24.471 plugin-container[51392:8538190] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:08:24.472 plugin-container[51392:8538190] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:08:24.480 plugin-container[51392:8538190] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:08:24.480 plugin-container[51392:8538190] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:08:24.481 plugin-container[51392:8538205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:08:24.481 plugin-container[51392:8538205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1667149793383	geckodriver	INFO	Listening on 127.0.0.1:58517
+1667149793905	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "58518" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileh0wLve"
+*** You are running in headless mode.
+2022-10-30 17:09:54.909 plugin-container[51457:8539070] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:09:54.910 plugin-container[51457:8539070] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:09:54.919 plugin-container[51457:8539070] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:09:54.919 plugin-container[51457:8539070] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:09:54.920 plugin-container[51457:8539072] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:09:54.920 plugin-container[51457:8539072] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667149795031	Marionette	INFO	Marionette enabled
+1667149795183	Marionette	INFO	Listening on port 58534
+Read port: 58534
+WebDriver BiDi listening on ws://127.0.0.1:58518
+1667149795812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileh0wLve/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58518/devtools/browser/54a1df4e-17a4-4d0d-8870-9700bbdbcbd0
+2022-10-30 17:10:04.404 plugin-container[51467:8539386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:10:04.405 plugin-container[51467:8539386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:10:04.414 plugin-container[51467:8539386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:10:04.414 plugin-container[51467:8539386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:10:04.414 plugin-container[51467:8539398] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:10:04.414 plugin-container[51467:8539398] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+1667150059227	geckodriver	INFO	Listening on 127.0.0.1:60718
+1667150059758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60719" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofiletywNW9"
+2022-10-30 17:14:21.194 plugin-container[51566:8541502] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:14:21.194 plugin-container[51566:8541502] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667150061247	Marionette	INFO	Marionette enabled
+2022-10-30 17:14:21.251 plugin-container[51566:8541502] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:14:21.251 plugin-container[51566:8541502] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:14:21.252 plugin-container[51566:8541499] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:14:21.252 plugin-container[51566:8541499] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667150061380	Marionette	INFO	Listening on port 60734
+Read port: 60734
+Read port: 60734
+WebDriver BiDi listening on ws://127.0.0.1:60719
+1667150063053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofiletywNW9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60719/devtools/browser/63b1a5b1-6951-4d17-8bd6-cfbf1e96b491
+2022-10-30 17:14:33.479 plugin-container[51575:8541799] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:14:33.480 plugin-container[51575:8541799] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:14:33.485 plugin-container[51575:8541799] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:14:33.485 plugin-container[51575:8541799] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:14:33.485 plugin-container[51575:8541832] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:14:33.485 plugin-container[51575:8541832] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1667152718573	geckodriver	INFO	Listening on 127.0.0.1:64545
+1667152719099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "64546" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileza2Fky"
+*** You are running in headless mode.
+2022-10-30 17:58:40.178 plugin-container[51835:8549455] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:58:40.180 plugin-container[51835:8549455] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:58:40.191 plugin-container[51835:8549455] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:58:40.191 plugin-container[51835:8549455] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:58:40.191 plugin-container[51835:8549464] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:58:40.191 plugin-container[51835:8549464] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667152720317	Marionette	INFO	Marionette enabled
+1667152720375	Marionette	INFO	Listening on port 64557
+Read port: 64557
+WebDriver BiDi listening on ws://127.0.0.1:64546
+1667152721284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileza2Fky/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64546/devtools/browser/02cd2dad-0660-4433-82eb-910dc8219ef9
+2022-10-30 17:58:51.941 plugin-container[51845:8549807] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:58:51.941 plugin-container[51845:8549807] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:58:51.949 plugin-container[51845:8549807] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:58:51.949 plugin-container[51845:8549807] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 17:58:51.949 plugin-container[51845:8549848] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 17:58:51.949 plugin-container[51845:8549848] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1667152833572	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667152854349	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667153147401	geckodriver	INFO	Listening on 127.0.0.1:51158
+1667153147547	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "51159" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilec6LpEV"
+*** You are running in headless mode.
+2022-10-30 18:05:48.987 plugin-container[52115:8553819] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:05:48.989 plugin-container[52115:8553819] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:05:49.003 plugin-container[52115:8553819] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:05:49.003 plugin-container[52115:8553819] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:05:49.006 plugin-container[52115:8553823] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:05:49.006 plugin-container[52115:8553823] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667153149325	Marionette	INFO	Marionette enabled
+1667153149549	Marionette	INFO	Listening on port 51172
+Read port: 51172
+Read port: 51172
+WebDriver BiDi listening on ws://127.0.0.1:51159
+1667153151638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilec6LpEV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51159/devtools/browser/a5792034-1435-4538-a718-a75390cb74ce
+2022-10-30 18:06:02.298 plugin-container[52124:8554265] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:06:02.299 plugin-container[52124:8554265] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:06:02.307 plugin-container[52124:8554265] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:06:02.307 plugin-container[52124:8554265] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:06:02.308 plugin-container[52124:8554291] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:06:02.308 plugin-container[52124:8554291] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript error: https://imgur.com/a/RWVg8/embed?pub=true&ref=https%3A%2F%2Fembed.ly&referrer=https%3A%2F%2Fwww.redditmedia.com%2F&w=900, line 656: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://quantcast.mgr.consensu.org/choice/61U5Cy8n-D5U0/imgur.com/choice.js, line 18: TypeError: window.__tcfapi is not a function
+JavaScript error: https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=imgur.com, line 1: TypeError: window.__tcfapi is not a function
+1667153493687	geckodriver	INFO	Listening on 127.0.0.1:53745
+1667153493752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "53746" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileJz31dX"
+*** You are running in headless mode.
+2022-10-30 18:11:35.268 plugin-container[52282:8557250] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:11:35.268 plugin-container[52282:8557250] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:11:35.277 plugin-container[52282:8557250] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:11:35.277 plugin-container[52282:8557250] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:11:35.277 plugin-container[52282:8557254] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:11:35.278 plugin-container[52282:8557254] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667153495394	Marionette	INFO	Marionette enabled
+1667153495484	Marionette	INFO	Listening on port 53755
+Read port: 53755
+WebDriver BiDi listening on ws://127.0.0.1:53746
+Read port: 53755
+1667153496896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileJz31dX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53746/devtools/browser/14854f48-62d1-4e24-9d7f-d8cec6a1b2a0
+2022-10-30 18:11:50.753 plugin-container[52292:8557591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:11:50.754 plugin-container[52292:8557591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:11:50.760 plugin-container[52292:8557591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:11:50.761 plugin-container[52292:8557591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:11:50.761 plugin-container[52292:8557630] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:11:50.761 plugin-container[52292:8557630] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1667153560697	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667153560732	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1667153597869	geckodriver	INFO	Listening on 127.0.0.1:55261
+1667153598398	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--remote-debugging-port" "55262" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileaIDqK4"
+*** You are running in headless mode.
+2022-10-30 18:13:19.618 plugin-container[52413:8558907] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:13:19.619 plugin-container[52413:8558907] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:13:19.637 plugin-container[52413:8558907] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:13:19.637 plugin-container[52413:8558907] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:13:19.637 plugin-container[52413:8558917] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:13:19.637 plugin-container[52413:8558917] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667153599782	Marionette	INFO	Marionette enabled
+1667153599873	Marionette	INFO	Listening on port 55277
+Read port: 55277
+WebDriver BiDi listening on ws://127.0.0.1:55262
+1667153600868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileaIDqK4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55262/devtools/browser/aa6b1934-15eb-471b-83cb-7bf2202c8111
+2022-10-30 18:13:30.589 plugin-container[52423:8559273] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:13:30.589 plugin-container[52423:8559273] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:13:30.594 plugin-container[52423:8559273] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:13:30.594 plugin-container[52423:8559273] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 18:13:30.594 plugin-container[52423:8559286] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 18:13:30.594 plugin-container[52423:8559286] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript error: https://imgur.com/a/RWVg8/embed?pub=true&ref=https%3A%2F%2Fembed.ly&referrer=https%3A%2F%2Fwww.redditmedia.com%2F&w=900, line 656: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://quantcast.mgr.consensu.org/choice/61U5Cy8n-D5U0/imgur.com/choice.js, line 18: TypeError: window.__tcfapi is not a function
+JavaScript error: https://quantcast.mgr.consensu.org/tcfv2/cmp2.js?referer=imgur.com, line 1: TypeError: window.__tcfapi is not a function
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+1667153711540	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667153711563	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
