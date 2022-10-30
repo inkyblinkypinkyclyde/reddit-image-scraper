@@ -1370,3 +1370,32 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1667165807027	geckodriver	INFO	Listening on 127.0.0.1:59272
+1667165807538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--headless" "--remote-debugging-port" "59273" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileRyj8pg"
+*** You are running in headless mode.
+2022-10-30 21:36:49.466 plugin-container[56684:8651107] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 21:36:49.466 plugin-container[56684:8651107] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667165809489	Marionette	INFO	Marionette enabled
+1667165809538	Marionette	INFO	Listening on port 59288
+Read port: 59288
+2022-10-30 21:36:49.567 plugin-container[56684:8651107] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 21:36:49.567 plugin-container[56684:8651107] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 21:36:49.567 plugin-container[56684:8651110] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 21:36:49.567 plugin-container[56684:8651110] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:59273
+Read port: 59288
+1667165810768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofileRyj8pg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59273/devtools/browser/4d44c876-d759-46b2-939c-091d9b6effa8
+2022-10-30 21:37:05.406 plugin-container[56694:8651434] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 21:37:05.406 plugin-container[56694:8651434] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 21:37:05.412 plugin-container[56694:8651434] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 21:37:05.412 plugin-container[56694:8651434] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-30 21:37:05.413 plugin-container[56694:8651465] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-30 21:37:05.413 plugin-container[56694:8651465] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
