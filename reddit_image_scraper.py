@@ -69,9 +69,8 @@ while True:
         print("Please enter a valid option.")
 
 url = 'https://www.reddit.com/r/' + subreddit + '/' + top.lower() + '/?count=25&after=t3_' + after.lower()
-print(f'Retrieving {pages} pages from {url}')
+print(f'Retrieving {pages + 1} pages from {url}')
 print('Please wait...')
-# driver = webdriver.Firefox(options=options, executable_path='/Users/richardgannon/geckodriver')
 driver = webdriver.Firefox(options=options, executable_path='./geckodriver')
 
 
