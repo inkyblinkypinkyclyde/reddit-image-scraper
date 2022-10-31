@@ -1399,3 +1399,73 @@ JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1667221232421	geckodriver	INFO	Listening on 127.0.0.1:55586
+1667221232560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--headless" "--remote-debugging-port" "55587" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilePZ9b6Z"
+*** You are running in headless mode.
+2022-10-31 13:00:35.999 plugin-container[60337:8769834] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-31 13:00:36.000 plugin-container[60337:8769834] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-31 13:00:36.072 plugin-container[60337:8769834] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-31 13:00:36.072 plugin-container[60337:8769834] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-31 13:00:36.073 plugin-container[60337:8769837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-31 13:00:36.073 plugin-container[60337:8769837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667221236347	Marionette	INFO	Marionette enabled
+1667221236527	Marionette	INFO	Listening on port 55616
+Read port: 55616
+Read port: 55616
+WebDriver BiDi listening on ws://127.0.0.1:55587
+Read port: 55616
+1667221239552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofilePZ9b6Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55587/devtools/browser/3b9750f9-dccc-4dd0-ab4c-3e72364107d6
+1667221297910	geckodriver	INFO	Listening on 127.0.0.1:55912
+1667221298423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "--headless" "--remote-debugging-port" "55913" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofile78xzyH"
+*** You are running in headless mode.
+2022-10-31 13:01:40.473 plugin-container[60398:8770687] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-31 13:01:40.473 plugin-container[60398:8770687] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-31 13:01:40.481 plugin-container[60398:8770687] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-31 13:01:40.481 plugin-container[60398:8770687] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-31 13:01:40.481 plugin-container[60398:8770698] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-31 13:01:40.481 plugin-container[60398:8770698] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1667221300699	Marionette	INFO	Marionette enabled
+1667221300832	Marionette	INFO	Listening on port 55932
+Read port: 55932
+WebDriver BiDi listening on ws://127.0.0.1:55913
+1667221301801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/c7/g1m06njd6n75k0x65fmbmnjr0000gn/T/rust_mozprofile78xzyH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55913/devtools/browser/19e74877-ca44-448b-bac5-f9bc259c6190
+2022-10-31 13:01:53.204 plugin-container[60407:8770956] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-31 13:01:53.205 plugin-container[60407:8770956] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-31 13:01:53.212 plugin-container[60407:8770956] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-31 13:01:53.212 plugin-container[60407:8770956] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-31 13:01:53.213 plugin-container[60407:8770989] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-31 13:01:53.213 plugin-container[60407:8770989] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.reddit.com."
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk vendors~dashjs failed.
+(error: https://www.redditstatic.com/desktop2x/vendors~dashjs.518ef1c4a3ea00bc51bc.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3170ec23a9079d57ea44.js, line 1: ChunkLoadError: Loading chunk SubredditHovercard failed.
+(error: https://www.redditstatic.com/desktop2x/SubredditHovercard.273e5ada469ef090f14f.js)
+JavaScript warning: https://www.redditstatic.com/accountmanager/ssoOneTap.a4521d10ebc48a7c4dc9.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.

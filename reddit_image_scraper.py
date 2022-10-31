@@ -22,6 +22,7 @@ while True:
 
 
 options.add_argument('--headless')
+
 pages = int(input('How many pages? '))
 subreddit = input('Subreddit? ')
 if os.path.exists('reddit_images/' + subreddit):
@@ -70,7 +71,9 @@ while True:
 url = 'https://www.reddit.com/r/' + subreddit + '/' + top.lower() + '/?count=25&after=t3_' + after.lower()
 print(f'Retrieving {pages} pages from {url}')
 print('Please wait...')
-driver = webdriver.Firefox(options=options, executable_path='/Users/richardgannon/geckodriver')
+# driver = webdriver.Firefox(options=options, executable_path='/Users/richardgannon/geckodriver')
+driver = webdriver.Firefox(options=options, executable_path='./geckodriver')
+
 
 driver.get(url)
 
